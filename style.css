@@ -1,0 +1,47 @@
+h2 {
+  display: flex;
+  align-items : flex-end;
+}
+
+h1 {
+	color: red;
+	font-size: 60px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+}
+#pond {
+  display: flex;
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+div#header {
+    text-align: center;
+    background-color: #CCCCCC;
+    height: 60px;
+    margin: 0px;
+    padding: 1px;
+}
+div#navcol {
+    padding: 10px;
+    width: 130px;
+    float: left;
+}
+div#main {
+    padding: 10px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+div#sidecol {
+    padding: 10px;
+    width: 130px;
+    float: right;
+}
+div#foot {
+    border-top: solid #000 1px;
+    background-color: #CCCCCC;
+    padding: 10px;
+    text-align: center;
+    clear: both;
+}
